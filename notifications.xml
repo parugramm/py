@@ -1,7 +1,0 @@
-<application>
-  <component name="NotificationConfiguration">
-    <notification groupId="Platform and Plugin Updates" displayType="NONE" shouldLog="false" />
-    <notification groupId="Power Save Mode" shouldLog="false" />
-    <notification groupId="Project Startup Tasks Messages" displayType="NONE" shouldLog="false" />
-  </component>
-</application>
